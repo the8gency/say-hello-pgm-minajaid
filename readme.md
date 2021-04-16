@@ -2,32 +2,28 @@
 
 
 # Hello I'm Mina Jaidane 
-![Mina Jaidane](https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/129648592_2744385699133248_281388594980082694_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=174925&_nc_ohc=qoi0cop1vLwAX-3oaBq&_nc_ht=scontent-bru2-1.xx&oh=078b96dae1158c9d5ed2e3e096d1bf94&oe=609D2AE3)
+![Mina Jaidane]()
 
 
 # Hello I'm Mina Jaidane 
+A student programming and graduated event and project manager looking for a new challenge. Eager to learn every day & ambitious to be able to do a lot
  
-:calling: +32 498 69 36 58   :email: mina.jaidane@gmail.com   :house: Gent 
+:calling: +32 498 69 36 58   
+:email: mina.jaidane@gmail.com   
+:house: Gent 
+
+## Skills
+
+## Socials 
+* [link to my LinkedIn!](https://www.linkedin.com/in/mina-jaidane-52069714a/) 
+* [link to my Github!](https://github.com/pgm-minajaid) 
+  * [link to Arne Quinze page] (https://pgmgent-2021-atwork1.github.io/atwork-1_project_3-pgm-minajaid/)
+  * [link to Gentse Feesten page] (https://pgmgent-2021-atwork1.github.io/atwork-1_project_2-pgm-minajaid/)
+
+## Experience
 
 
-
-Your current position
-Your current home location
-About / Summary
-Contact
-Email
-Personal website
-Social
-LinkedIn
-GitHub
-Codepen
-Stack Overflow
-YouTube
-Medium
-…
-Skills
-Experience
-Education
+## Education
 (Languages)
 (References)
 (Interests)
