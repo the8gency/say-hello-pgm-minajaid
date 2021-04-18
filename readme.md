@@ -5,8 +5,7 @@
 ![Mina Jaidane](https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/129648592_2744385699133248_281388594980082694_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=174925&_nc_ohc=qoi0cop1vLwAX8Aqnu0&_nc_ht=scontent-bru2-1.xx&oh=8e8ed182389670e90d15491d6327a162&oe=60A11F63)
 
 
-# Hello I'm Mina Jaidane 
-A student programming and graduated event and project manager looking for a new challenge. Eager to learn every day & ambitious to be able to do a lot
+I'm student programming and graduated event and project manager looking for a new challenge. Eager to learn every day & ambitious to be able to do a lot
  
 :calling: +32 498 69 36 58   
 :email: mina.jaidane@gmail.com   
