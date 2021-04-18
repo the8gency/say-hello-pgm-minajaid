@@ -14,9 +14,9 @@ A student programming and graduated event and project manager looking for a new 
 
 ## Education
 
-Graduate Programming | 2020 - present
-Event- and project management | 2017-2020
-Human Sciences | 2010-2016
+- Graduate Programming | 2020 - present
+- Event- and project management | 2017-2020
+- Human Sciences | 2010-2016
 
 
 ## Experience
@@ -48,6 +48,17 @@ Barmanager
 - Tomorrowland winter
 
 ## Skills
+
+
+|JavaScript| |
+|Adobe XD| :star: :star: :star: :star: |
+|Adobe Photoshop| :star: :star: :star: :star: |
+|Adobe indesign| :star: :star: :star: :star: |
+|HTML| :star: :star: :star: :star: :star: |
+|CSS| :star: :star: :star: :star: :star: |
+|Office| :star: :star: :star: :star: :star: |
+|![image](https://user-images.githubusercontent.com/71324864/115154531-953a9c80-a07b-11eb-84ac-a52eb57db1e9.png)| :star: :star: :star: :star: :star: |
+|Instagram| :star: :star: :star: :star: :star: |
 
 
 ## Socials 
