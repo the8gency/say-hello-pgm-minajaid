@@ -49,7 +49,8 @@ Barmanager
 
 ## Skills
 
-
+|Skills|level|
+|----|----|
 |JavaScript| lalala |
 |Adobe XD|  |
 |Adobe Photoshop| |
