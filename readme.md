@@ -14,9 +14,9 @@ A student programming and graduated event and project manager looking for a new 
 
 ## Education
 
-- Graduate Programming | 2020 - present
-- Event- and project management | 2017-2020
-- Human Sciences | 2010-2016
+:books: Graduate Programming | 2020 - present
+:books: Event- and project management | 2017-2020
+:books: Human Sciences | 2010-2016
 
 
 ## Experience
